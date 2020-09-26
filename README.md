@@ -1,5 +1,7 @@
 # ANN_Project
 Mini project for Artificial Neural Network course
 
-Main file:
-miniproject_rl.ipynb
+### Main file:
+'''
+adrien_bertaud_nathan_muller/miniproject_rl.ipynb
+'''
