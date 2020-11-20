@@ -1,6 +1,16 @@
 # ANN_Project
 Mini project for Artificial Neural Network course
 
-### Main file:
-adrien_bertaud_nathan_muller/miniproject_rl.ipynb
+## Contributors
+
+* Nathan Muller
+* Adrien Bertaud
+
+## Main file:
+* **miniproject_rl.ipynb**
+
+## Notation:
+* **Feedback_Berfin_Simsek.pdf**
+* **Feedback_Kuras_Ihor.pdf**
+* **Feedback_Viano_Luca.pdf**
 
