@@ -1,5 +1,5 @@
-# ANN_Project
-Mini project for Artificial Neural Network course
+# Learn to play at Pong with reinforcement learning.
+Project for Artificial Neural Network course at EPFL.
 
 ## Contributors
 
