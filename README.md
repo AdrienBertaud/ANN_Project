@@ -25,8 +25,8 @@ We use Policy Gradient approaches to learn the task. In supervised learning task
 ## Main file:
 * **main.ipynb**
 
-## Feedbacks:
-* **./Feedbacks**
+## Feedbacks directory:
+* **/Feedbacks**
 
 ## Versions used:
 * Python 3.7.6
