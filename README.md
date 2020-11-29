@@ -22,8 +22,11 @@ The agent can take one of two actions, accelerate up or accelerate down. The age
 
 We use Policy Gradient approaches to learn the task. In supervised learning tasks, the network generates a probability distribution over the outputs, and is trained to maximize the probability of a specific target output given an observation. In Policy Gradient methods, the network generates a probability distribution over actions, and is trained to maximize expected future rewards given an observation.
 
-## Environment setup:
-* **env_setup**
+## Main file:
+* **main.ipynb**
+
+## Feedbacks:
+* **./Feedbacks**
 
 ## Versions used:
 * Python 3.7.6
@@ -34,12 +37,6 @@ We use Policy Gradient approaches to learn the task. In supervised learning task
 * IPython 7.19.0
 * pillow 8.0.1
 * pygame 1.9.6
-
-## Main file:
-* **main.ipynb**
-
-## Feedbacks from teachers:
-* **./Feedbacks**
 
 
 
